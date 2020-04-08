@@ -28,13 +28,6 @@
       "sha1_hash": null
     },
     {
-      "path": "core_dumps/index.html",
-      "is_directory": false,
-      "size": 2629,
-      "updated_at": "Thu, 02 Apr 2020 19:44:33 -0000",
-      "sha1_hash": null
-    },
-    {
       "path": "core_dumps/jquery_app.html",
       "is_directory": false,
       "size": 5600,
