@@ -2,6 +2,11 @@
   "result": "success",
   "files": [
     {
+      "path": "core_dumps/jem-discography.html",
+      "is_directory": false,
+      "updated_at": "Thu, 15 Apr 2020 23:39:26 -0000"
+    },
+    {
       "path": "core_dumps/morphic",
       "is_directory": true,
       "updated_at": "Thu, 02 Apr 2020 23:39:26 -0000"
