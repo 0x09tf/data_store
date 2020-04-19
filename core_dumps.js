@@ -2,14 +2,9 @@
   "result": "success",
   "files": [
         {
-      "path": "jiuweihu-radio/",
+      "path": "jiuweihu-radio/index.html",
       "is_directory": false,
       "updated_at": "Thu, 19 Apr 2020 23:39:26 -0000"
-    },
-    {
-      "path": "core_dumps/jem-discography.html",
-      "is_directory": false,
-      "updated_at": "Thu, 15 Apr 2020 23:39:26 -0000"
     },
     {
       "path": "core_dumps/morphic",
