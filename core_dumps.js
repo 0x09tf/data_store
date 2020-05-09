@@ -22,11 +22,6 @@
       "updated_at": "Thu, 19 Apr 2020 23:39:26 -0000"
     },
     {
-      "path": "core_dumps/morphic",
-      "is_directory": true,
-      "updated_at": "Thu, 02 Apr 2020 23:39:26 -0000"
-    },
-    {
       "path": "core_dumps/babylon.html",
       "is_directory": false,
       "size": 13535,
@@ -59,13 +54,6 @@
       "is_directory": false,
       "size": 9917,
       "updated_at": "Thu, 09 Apr 2020 00:40:07 -0000",
-      "sha1_hash": null
-    },
-    {
-      "path": "core_dumps/misfits.jpg",
-      "is_directory": false,
-      "size": 129910,
-      "updated_at": "Thu, 26 Mar 2020 01:30:09 -0000",
       "sha1_hash": null
     },
     {
